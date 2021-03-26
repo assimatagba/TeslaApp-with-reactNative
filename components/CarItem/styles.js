@@ -34,6 +34,14 @@ const styles = StyleSheet.create({
         width: '100%',
         height: '100%',
         position: 'absolute'
+      },
+      buttomContainer: {
+        position: 'absolute',
+        bottom: 50,
+        width: '100%'
+      },
+      subtitleCTA: {
+        textDecorationLine: 'underline'
       }
 })
 
